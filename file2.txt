@@ -1,2 +1,2 @@
 testing tracked files
-testing config name
+test config name
